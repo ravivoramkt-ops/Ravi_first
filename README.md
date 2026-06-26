@@ -1,3 +1,4 @@
+#include<std.h>
 #include<conio.h>
 void main()
 {
